@@ -35,3 +35,6 @@ cd user2
 git remote add origin https://github.com/Nizamuddin4832/example.git
 git add .
 exit
+history
+clear
+exit
